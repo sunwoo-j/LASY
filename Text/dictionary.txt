@@ -1,0 +1,65 @@
+acerbus@acerba, acerbum@bitter@adj 2-1-2
+aedes@aedis@temple; house@noun f 3
+aeger@aegra, aegrum@sick, ill, weary, love-sick@adj 2-1-2
+aeneus@aenea, aeneum@made of bronze@adj 2-1-2
+aequor@aequoris@level surface, plain; sea@noun n 3
+aer@aeris@air@noun m 
+aes@aeris@bronze; money@noun n 3
+aestus@aestus@boiling, heat; surging sea; passion@noun m 4
+aether@aetheris@air, sky@noun m 3
+aevum@aevi@age, period of time; life@noun n 2
+agnus@agni@lamb@noun m 2
+agrestis@agreste@rustic, of the countryside@adj 3
+ait@aiunt (pl)@he/she says@verb irreg
+albus@alba, album@white@adj 2-1-2
+ales@alitis@bird@noun m/f 3
+ames@amentis (gen)@out of one's mind, mad, frantic@adj 3
+amnis@amnis@stream, river@noun m 3
+amoenus@amoena, amoenum@pleasant, charming@adj 2-1-2
+amplexus@amplexus@embrace@noun m 4
+anguis@anguis@snake@noun m/f 3
+anima@animae@soul, spirit, breath, life@noun f 1
+antiquus@antiqua, antiquum@ancient, previous@adj 2-1-2
+antrum@antri@cave@noun n 2
+apricus@aprica, apricum@sunny, warm@adj 2-1-2
+apto@aptare, aptavi, aptatum@fit, adjust@verb 1st
+aquilo@aquilonis@the north wind@noun m 3
+arduus@ardua, arduum@high, steep; difficult@adj 2-1-2
+armentum@armenti@herd of cattle@noun n 2
+artus@artus@limb@noun m 4
+arva@arvorum@fields, land@noun n 2 pl
+astrum@astri@star, constellation@noun n 2
+ater@atra, atrum@black, dark@adj 2-1-2
+aura@aurae@breeze, air@noun f 1
+auris@auris@ear@noun f 3
+aurora@aurorae@dawn@noun f 1
+auster@austri@the south wind@noun m 2
+axis@axis@axis, axle, chariot; sky, heaven@noun m 2
+bellus@bella, bellum@beautiful, handsome, pretty@adj 2-1-2
+blandus@blanda, blandum@coaxing, flattering, charming@adj 2-1-2
+boreas@boreae@the north wind@noun m 1
+bos@bovis@ox, bull; cow; cattle (pl)@noun m/f 3
+bracchium@bracchii@arm@noun n 2
+caelestis@caeleste@heavenly, divine@adj 3
+caeruleus@caerulea, caeruleum@dark blue, dark coloured@adj 2-1-2
+calidus@calida, calidum@hot; eager, fierce@adj 2-1-2
+candens@candentis (gen)@white, shining@adj 3
+candidus@candida, candidum@white@adj 2-1-2
+canus@cana, canum@grey-haired, white@adj 2-1-2
+careo@carare, carui, caritum@lack (+abl)@verb 2nd
+carina@carinae@keel; boat, ship@noun f 1
+celsus@celsa, celsum@high, lofty@adj 2-1-2
+cerno@cernere, crevi, cretum@look at, discern, decide@verb 3rd
+cervix@cervicis@neck@noun f 3
+cervus@cervi@stag, deer@noun m 2
+cieo@ciere, civi, citum@stir up, excite@verb 2nd
+citus@cita, citum@quick, swift, rapid@adj 2-1-2
+clivus@clivi@slope, hill@noun m 2
+color@coloris@colour, complexion@noun m 3
+coma@comae@hair@noun f 1
+consuetus@consueta, consuetum@usual, accustomed@adj 2-1-2
+cor@cordis@heart@noun n 3
+corona@coronae@wreath, garland, crown@noun f 1
+creo@creare, creavi, creatum@create, make, give birth to@verb 1st
+cresco@crescere, crevi, cretum@increase, grow, arise@verb 3rd
+n@n@n@n
